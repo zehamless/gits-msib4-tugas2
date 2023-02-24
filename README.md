@@ -1,1 +1,2 @@
-# gits-msib4-tugas2
+# Nama:  Mahez Pradana
+# Universitas Lampung
